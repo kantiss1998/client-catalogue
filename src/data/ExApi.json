@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Shinar",
+    "subName": "Stik",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 1,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shinar",
+    "subName": "Sonic",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Shinar",
+    "subName": "Premium Sonic Plat S",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Shinar",
+    "subName": "Syar'i Sonic",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Shinar",
+    "subName": "Pasmina Polos",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Saudia",
+    "subName": "Rawis",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ansania",
+    "subName": "Voal Rawis",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Saudia",
+    "subName": "Sonic",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Saudia",
+    "subName": "Pasmina Polos",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Saudia",
+    "subName": "Pasmina Ombre",
+    "imgUrls": ["-", "-", "-", "-"],
+    "description": "-",
+    "categoryId": 2,
+    "isNew": false,
+    "colos": [
+      [
+        {
+          "name": "Abu Muda",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Muda Hijau",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Semen",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu Silver",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        },
+        {
+          "name": "Abu SMA",
+          "hexCode": "-",
+          "rgb": "-",
+          "imgUrl": "-",
+          "productId": 1
+        }
+      ]
+    ]
+  }
+]
