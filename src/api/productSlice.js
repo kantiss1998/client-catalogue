@@ -3,7 +3,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 export const fetchProducts = createAsyncThunk(
   'products/fetchProducts',
   async () => {
-    const response = await fetch('http://localhost:3000/all');
+    const response = await fetch('https://thoughtful-prawn-kantiss-0e0f9621.koyeb.app/all');
     const data = await response.json();
     return data;
   }
