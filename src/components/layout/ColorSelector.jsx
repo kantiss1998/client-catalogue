@@ -3,7 +3,10 @@ import { X } from "lucide-react";
 
 import potoP from "../../assets/products/Lovila1.png"
 
-const ColorPopup = ({ color, onClose }) => {
+const ColorPopup = ({ color, onClose, images }) => {
+  if (images === "-") {
+    images = potoP
+  }
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
       <div className="bg-white p-4 rounded-lg shadow-lg max-w-sm w-full">
@@ -15,7 +18,7 @@ const ColorPopup = ({ color, onClose }) => {
         </div>
         <div className="aspect-w-16 aspect-h-9 mb-4">
           <img
-            src={`${potoP}`}
+            src={`${images}`}
             alt={`${color.name} color`}
             className="object-cover rounded"
           />
@@ -30,6 +33,7 @@ const ColorSelector = ({
   color = { name: "Black", hexCode: "#000" },
   isSelected = false,
   shape = "circle",
+  images,
   onClick,
   className = "",
 }) => {
@@ -87,7 +91,7 @@ const ColorSelector = ({
         </div>
       </div>
       {showPopup && (
-        <ColorPopup color={color} onClose={() => setShowPopup(false)} />
+        <ColorPopup color={color} images={images} onClose={() => setShowPopup(false)} />
       )}
     </>
   );

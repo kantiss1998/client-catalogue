@@ -3,7 +3,8 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 export const fetchProducts = createAsyncThunk(
   'products/fetchProducts',
   async () => {
-    const response = await fetch('https://thoughtful-prawn-kantiss-0e0f9621.koyeb.app/all');
+    // const response = await fetch('http://localhost:8000/all');
+    const response = await fetch('https://xeric-sandi-kantiss-cb026c8c.koyeb.app/all');
     const data = await response.json();
     return data;
   }

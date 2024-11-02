@@ -6,12 +6,11 @@ const ProductCardsWrapper = ({
   className = "",
   productImageClassName = "",
 }) => {
-  console.log(productsData);
   return (
     <div className={`${className} grid`}>
       {productsData?.map((d, i) => (
           <ProductCard
-            image={d.image}
+            image={d.imgUrls[0]}
             imageClassName={productImageClassName}
             subName={d.name}
             name={d.name}

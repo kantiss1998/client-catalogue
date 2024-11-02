@@ -44,6 +44,7 @@ const DetailView = ({
             <ColorSelector
               key={i}
               color={hex}
+              images={hex.imgUrl}
               isSelected={colorVarients[i] === activeColor}
               onClick={() => activeColor !== hex && handleColorClick(hex)}
             />

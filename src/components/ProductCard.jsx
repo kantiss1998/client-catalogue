@@ -11,7 +11,6 @@ const ProductCard = ({
   imageClassName = "",
 }) => {
   const { name: urlName } = useParams();
-  console.log(urlName);
   return (
     <div className={`relative flex flex-col flex-wrap gap-y-4 ${className}`}>
       

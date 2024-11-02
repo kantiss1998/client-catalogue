@@ -32,8 +32,6 @@ const ProductSubNamePage = () => {
         }
       });
     });
-
-  console.log(uniqueProducts);
   useEffect(() => {
     if (status === "idle") {
       dispatch(fetchProducts());

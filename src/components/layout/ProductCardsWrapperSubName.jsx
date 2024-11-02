@@ -11,7 +11,7 @@ const ProductCardsWrapperSubName = ({
     <div className={`${className} grid`}>
       {productsData?.map((d, i) => (
         <ProductCardSubName
-          image={d.image}
+          image={d.imgUrls[0]}
           imageClassName={productImageClassName}
           subName={d.subName}
           name={d.name}
