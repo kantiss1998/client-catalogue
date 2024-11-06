@@ -4,7 +4,7 @@ export const fetchProducts = createAsyncThunk(
   'products/fetchProducts',
   async () => {
     // const response = await fetch('http://localhost:8000/all');
-    const response = await fetch('https://xeric-sandi-kantiss-cb026c8c.koyeb.app/all');
+    const response = await fetch('https://backendcatalogue-f6rnr5i2.b4a.run/all');
     const data = await response.json();
     return data;
   }
